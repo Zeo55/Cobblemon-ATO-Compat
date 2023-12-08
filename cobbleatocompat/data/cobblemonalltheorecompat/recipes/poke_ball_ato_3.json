@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "cobblemon:red_apricorn"
+    },
+    "3": {
+      "item": "cobblemon:red_apricorn"
+    },
+    "4": {
+      "item": "alltheores:nickel_ingot"
+    },
+    "5": {
+      "item": "cobblemon:red_apricorn"
+    },
+    "7": {
+      "item": "cobblemon:red_apricorn"
+    }
+  },
+  "result": {
+    "item": "cobblemon:poke_ball",
+    "count": 6
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "cobblemon:black_apricorn"
+    },
+    "3": {
+      "item": "cobblemon:yellow_apricorn"
+    },
+    "4": {
+      "item": "alltheores:osmium_ingot"
+    },
+    "5": {
+      "item": "cobblemon:yellow_apricorn"
+    },
+    "7": {
+      "item": "cobblemon:black_apricorn"
+    }
+  },
+  "result": {
+    "item": "cobblemon:ultra_ball",
+    "count": 4
+  }
+}
